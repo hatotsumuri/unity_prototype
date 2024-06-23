@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ae42e441f3fc54e749c32313b04f0142
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyCoinPrefab: {fileID: 6154249615319510240, guid: 3474e43159a30432f9e088b6383e38cf, type: 3}
+  - canvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

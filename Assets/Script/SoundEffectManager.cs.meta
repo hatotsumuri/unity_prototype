@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7ae36d7d5afa243c5b56ac4cc4ece8f8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - attack01Clip: {fileID: 8300000, guid: 2e13793e3b7344ad0abe7015dcd5ae24, type: 3}
+  - break01Clip: {fileID: 8300000, guid: 15501ce07a5d9417c8dbc66a755994fe, type: 3}
+  - direct01Clip: {fileID: 8300000, guid: 93181343054204344ae17b3c3acb50ab, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
